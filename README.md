@@ -1,4 +1,4 @@
-# PRODIGY_ML_03
+
 # Task 03 : Cat vs Dog Image Classification with SVM
 
 ## Objective
