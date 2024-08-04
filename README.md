@@ -10,6 +10,7 @@ Implement a Support Vector Machine (SVM) model to classify images of cats and do
 - **train.zip**: Contains training images of cats and dogs.
 - **test.zip**: Contains test images of cats and dogs.
 - The dataset is sourced from Kaggle.
+- **Dataset Link**: https://www.kaggle.com/c/dogs-vs-cats/data
 
 ## Steps Implemented
 
